@@ -16,12 +16,10 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from django.views.generic import RedirectView
 
 from .views import GeneratePDF
 
 urlpatterns = [
-    path('', RedirectView.as_view(url='pdf/', permanent=True), name="home"),
+    path('', GeneratePDF.as_view(), name="home"),
     path('admin/', admin.site.urls),
-    path('pdf/', GeneratePDF.as_view()),
 ]

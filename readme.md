@@ -275,7 +275,7 @@ Reproducir las actividades de los videos donde trabajamos:
      
 5. Realizar un video Flipgrid mostrando las ejecuciones de los ejercicios
 
-    - Link del video: 
+    - Link del video: https://flip.com/s/VpYRDah9wroh 
 
 ## Commits Importantes Github
 
@@ -283,7 +283,7 @@ Reproducir las actividades de los videos donde trabajamos:
   
   ![Commits](./img/Commits.png)
 
-## Autoevaluación Grupal
+## Autoevaluación Individual
 
   - Tras todo lo expuesto y mediante un consenso en grupo, se llegó a la siguiente tabla de autoevaluación
   

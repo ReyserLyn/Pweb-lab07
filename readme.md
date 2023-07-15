@@ -36,9 +36,6 @@
             <tr>
               <td colspan="4">NOMBRE:
                 <ul>
-            	    <li>CARRASCO CHOQUE ARLES MELVIN</li>
-                  <li>CHARA CONDORI JEAN CARLO</li>
-                  <li>CHOQUECONDO ASPILCUETA DANIELA MABEL</li>
                   <li>ZAPATA BUTRON REYSER JULIO</li>
                 </ul>
               </td>
